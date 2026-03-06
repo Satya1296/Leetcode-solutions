@@ -30,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Satya1296/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 <!---LeetCode Topics End-->
