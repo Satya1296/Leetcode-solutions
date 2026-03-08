@@ -55,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3790-smallest-all-ones-multiple](https://github.com/Satya1296/Leetcode-solutions/tree/main/3790-smallest-all-ones-multiple/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Satya1296/Leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
