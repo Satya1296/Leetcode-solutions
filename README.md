@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Satya1296/Leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Satya1296/Leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satya1296/Leetcode-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satya1296/Leetcode-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Satya1296/Leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
