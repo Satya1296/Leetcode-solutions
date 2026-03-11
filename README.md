@@ -11,12 +11,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Satya1296/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Satya1296/Leetcode-solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Satya1296/Leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/Satya1296/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satya1296/Leetcode-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3790-smallest-all-ones-multiple](https://github.com/Satya1296/Leetcode-solutions/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -72,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Satya1296/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
+| [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
