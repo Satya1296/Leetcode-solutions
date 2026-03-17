@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Satya1296/Leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Satya1296/Leetcode-solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Satya1296/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satya1296/Leetcode-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
