@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Satya1296/Leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Satya1296/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
+| [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Satya1296/Leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Satya1296/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Satya1296/Leetcode-solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Satya1296/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
+| [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
