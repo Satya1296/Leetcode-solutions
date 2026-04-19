@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Satya1296/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satya1296/Leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Satya1296/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Linked List
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Satya1296/Leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Satya1296/Leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Satya1296/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
