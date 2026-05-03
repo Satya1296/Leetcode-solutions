@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Satya1296/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0796-rotate-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Satya1296/Leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Satya1296/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Satya1296/Leetcode-solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
@@ -176,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Satya1296/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
