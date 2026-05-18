@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Satya1296/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/Satya1296/Leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0796-rotate-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Satya1296/Leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Satya1296/Leetcode-solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
