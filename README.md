@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satya1296/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Satya1296/Leetcode-solutions/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Satya1296/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Satya1296/Leetcode-solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Satya1296/Leetcode-solutions/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Bit Manipulation
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Satya1296/Leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Satya1296/Leetcode-solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Satya1296/Leetcode-solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Satya1296/Leetcode-solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
