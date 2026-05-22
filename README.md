@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Satya1296/Leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
