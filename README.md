@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Satya1296/Leetcode-solutions/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Satya1296/Leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2129-capitalize-the-title](https://github.com/Satya1296/Leetcode-solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Satya1296/Leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
