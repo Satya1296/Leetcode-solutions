@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Satya1296/Leetcode-solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
+| [3456-find-special-substring-of-length-k](https://github.com/Satya1296/Leetcode-solutions/tree/main/3456-find-special-substring-of-length-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
