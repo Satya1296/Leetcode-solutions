@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satya1296/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Satya1296/Leetcode-solutions/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Satya1296/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
+| [3285-find-indices-of-stable-mountains](https://github.com/Satya1296/Leetcode-solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Satya1296/Leetcode-solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Satya1296/Leetcode-solutions/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
