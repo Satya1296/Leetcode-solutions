@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Satya1296/Leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Satya1296/Leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Satya1296/Leetcode-solutions/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
