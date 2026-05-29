@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satya1296/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Satya1296/Leetcode-solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Satya1296/Leetcode-solutions/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Satya1296/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/Satya1296/Leetcode-solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Satya1296/Leetcode-solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satya1296/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Satya1296/Leetcode-solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3790-smallest-all-ones-multiple](https://github.com/Satya1296/Leetcode-solutions/tree/main/3790-smallest-all-ones-multiple/) | Medium |
