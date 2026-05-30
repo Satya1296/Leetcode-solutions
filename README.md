@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya1296/Leetcode-solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Satya1296/Leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Satya1296/Leetcode-solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2716-minimize-string-length](https://github.com/Satya1296/Leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2810-faulty-keyboard](https://github.com/Satya1296/Leetcode-solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Satya1296/Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Satya1296/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2716-minimize-string-length](https://github.com/Satya1296/Leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
