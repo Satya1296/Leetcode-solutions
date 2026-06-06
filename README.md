@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Satya1296/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Satya1296/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Satya1296/Leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Satya1296/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Satya1296/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
