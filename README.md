@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0274-h-index](https://github.com/Satya1296/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [0275-h-index-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
