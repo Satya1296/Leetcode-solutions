@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-number-of-lines-to-write-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Satya1296/Leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Satya1296/Leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Satya1296/Leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Satya1296/Leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
