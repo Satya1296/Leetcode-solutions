@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Satya1296/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Satya1296/Leetcode-solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Satya1296/Leetcode-solutions/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1528-shuffle-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Satya1296/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Satya1296/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satya1296/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
