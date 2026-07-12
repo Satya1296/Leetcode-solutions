@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satya1296/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Satya1296/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Satya1296/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satya1296/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satya1296/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Satya1296/Leetcode-solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Satya1296/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Satya1296/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Satya1296/Leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Satya1296/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
