@@ -394,4 +394,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0274-h-index](https://github.com/Satya1296/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Satya1296/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 <!---LeetCode Topics End-->
