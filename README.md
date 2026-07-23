@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Satya1296/Leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1629-slowest-key](https://github.com/Satya1296/Leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satya1296/Leetcode-solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Satya1296/Leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Satya1296/Leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Satya1296/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Satya1296/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satya1296/Leetcode-solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Satya1296/Leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Satya1296/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Satya1296/Leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satya1296/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting Sort
@@ -436,4 +440,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Satya1296/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 <!---LeetCode Topics End-->
