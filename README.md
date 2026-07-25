@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0047-permutations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0078-subsets](https://github.com/Satya1296/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0274-h-index](https://github.com/Satya1296/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Satya1296/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0047-permutations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Satya1296/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Satya1296/Leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
