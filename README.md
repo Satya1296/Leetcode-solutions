@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Satya1296/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Satya1296/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Satya1296/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satya1296/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Satya1296/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Satya1296/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Satya1296/Leetcode-solutions/tree/main/2383-minimum-hours-of-training-to-win-a-competition/) | Easy |
