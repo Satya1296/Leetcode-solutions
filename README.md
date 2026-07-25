@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya1296/Leetcode-solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Satya1296/Leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Satya1296/Leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satya1296/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
