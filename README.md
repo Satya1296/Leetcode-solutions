@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Satya1296/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Satya1296/Leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/Satya1296/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Satya1296/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Satya1296/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Satya1296/Leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
