@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya1296/Leetcode-solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 | [2788-split-strings-by-separator](https://github.com/Satya1296/Leetcode-solutions/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Satya1296/Leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,10 +349,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Satya1296/Leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satya1296/Leetcode-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satya1296/Leetcode-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Satya1296/Leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satya1296/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -472,4 +477,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 <!---LeetCode Topics End-->
