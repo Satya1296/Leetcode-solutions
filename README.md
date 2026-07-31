@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2733-neither-minimum-nor-maximum](https://github.com/Satya1296/Leetcode-solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Satya1296/Leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Satya1296/Leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satya1296/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satya1296/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Satya1296/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Satya1296/Leetcode-solutions/tree/main/2383-minimum-hours-of-training-to-win-a-competition/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Satya1296/Leetcode-solutions/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Satya1296/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2956-find-common-elements-between-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satya1296/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satya1296/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -351,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Satya1296/Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Design
 | Problem Name | Difficulty |
