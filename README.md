@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Satya1296/Leetcode-solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Satya1296/Leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0338-counting-bits](https://github.com/Satya1296/Leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/Satya1296/Leetcode-solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Satya1296/Leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
