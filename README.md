@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satya1296/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satya1296/Leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satya1296/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Satya1296/Leetcode-solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Satya1296/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Satya1296/Leetcode-solutions/tree/main/0784-letter-case-permutation/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Satya1296/Leetcode-solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Math
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Satya1296/Leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Satya1296/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Satya1296/Leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -482,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Satya1296/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
@@ -569,4 +574,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
