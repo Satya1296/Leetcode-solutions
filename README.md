@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2815-max-pair-sum-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satya1296/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Satya1296/Leetcode-solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Satya1296/Leetcode-solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satya1296/Leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2815-max-pair-sum-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satya1296/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Satya1296/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -515,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Satya1296/Leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satya1296/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satya1296/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting Sort
