@@ -1,25 +1,11 @@
 class Solution {
 public:
-    string to_binary(int num){
-        string bi="";
-        if(num==0) return "0";
-        while(num>0){
-            bi+=char((num%2)+'0');
-            num/=2;
-        }
-        reverse(bi.begin(),bi.end());
-        return bi;
-    }
     int minBitFlips(int start, int goal) {
-        string s=to_binary(start);
-        string r=to_binary(goal);
-        int len=max(s.size(),r.size());
-        while (s.size()<len) s='0'+s;
-        while (r.size()<len) r='0'+r;
-        int count=0;
-        for(int i=0;i<len;i++){
-            if(s[i]!=r[i]) count++;
+        int cnt=0;
+        int ans=start^goal;
+        for(int i=0;i<32;i++){
+            if((ans>>i)&1) cnt++;
         }
-        return count;
+        return cnt;
     }
 };
