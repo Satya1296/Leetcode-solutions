@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1629-slowest-key](https://github.com/Satya1296/Leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Satya1296/Leetcode-solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1720-decode-xored-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Satya1296/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satya1296/Leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Satya1296/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-binary-prefix-divisible-by-5](https://github.com/Satya1296/Leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Satya1296/Leetcode-solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1720-decode-xored-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
