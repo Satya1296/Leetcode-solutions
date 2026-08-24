@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Satya1296/Leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/Satya1296/Leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Satya1296/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
