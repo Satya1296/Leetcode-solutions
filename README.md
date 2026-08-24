@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
