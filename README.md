@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/Satya1296/Leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satya1296/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String Matching
@@ -592,16 +594,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0866-prime-palindrome](https://github.com/Satya1296/Leetcode-solutions/tree/main/0866-prime-palindrome/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
