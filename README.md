@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/Satya1296/Leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Satya1296/Leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1763-longest-nice-substring](https://github.com/Satya1296/Leetcode-solutions/tree/main/1763-longest-nice-substring/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Satya1296/Leetcode-solutions/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satya1296/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satya1296/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
