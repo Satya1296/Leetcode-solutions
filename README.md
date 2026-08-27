@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Satya1296/Leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Satya1296/Leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Satya1296/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Satya1296/Leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/Satya1296/Leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -637,5 +639,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
