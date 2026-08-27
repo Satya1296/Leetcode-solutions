@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Satya1296/Leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0866-prime-palindrome](https://github.com/Satya1296/Leetcode-solutions/tree/main/0866-prime-palindrome/) | Medium |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Satya1296/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Satya1296/Leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Satya1296/Leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/Satya1296/Leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
+| [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -631,4 +634,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Satya1296/Leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
