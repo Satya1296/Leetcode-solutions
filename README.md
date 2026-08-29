@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Satya1296/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Satya1296/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Satya1296/Leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Satya1296/Leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/Satya1296/Leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
