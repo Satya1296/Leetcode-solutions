@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3282-reach-end-of-array-with-max-score](https://github.com/Satya1296/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/Satya1296/Leetcode-solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Satya1296/Leetcode-solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Satya1296/Leetcode-solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Satya1296/Leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Satya1296/Leetcode-solutions/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Satya1296/Leetcode-solutions/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/Satya1296/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Satya1296/Leetcode-solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Satya1296/Leetcode-solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Satya1296/Leetcode-solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Satya1296/Leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Satya1296/Leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -531,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2523-closest-prime-numbers-in-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya1296/Leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Satya1296/Leetcode-solutions/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Satya1296/Leetcode-solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satya1296/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String Matching
