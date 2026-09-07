@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Satya1296/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Satya1296/Leetcode-solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Satya1296/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Satya1296/Leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Satya1296/Leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya1296/Leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Satya1296/Leetcode-solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Satya1296/Leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Satya1296/Leetcode-solutions/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Satya1296/Leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya1296/Leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Satya1296/Leetcode-solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Satya1296/Leetcode-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Satya1296/Leetcode-solutions/tree/main/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/Satya1296/Leetcode-solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Satya1296/Leetcode-solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
