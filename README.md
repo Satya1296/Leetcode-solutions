@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Satya1296/Leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Satya1296/Leetcode-solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Satya1296/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Satya1296/Leetcode-solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0866-prime-palindrome](https://github.com/Satya1296/Leetcode-solutions/tree/main/0866-prime-palindrome/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Satya1296/Leetcode-solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Satya1296/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -675,4 +677,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Satya1296/Leetcode-solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 <!---LeetCode Topics End-->
