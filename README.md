@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-decode-xored-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Satya1296/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Satya1296/Leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Satya1296/Leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Satya1296/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satya1296/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Satya1296/Leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Satya1296/Leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Satya1296/Leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2762-continuous-subarrays](https://github.com/Satya1296/Leetcode-solutions/tree/main/2762-continuous-subarrays/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/Satya1296/Leetcode-solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Satya1296/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Satya1296/Leetcode-solutions/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Satya1296/Leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Satya1296/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Satya1296/Leetcode-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Satya1296/Leetcode-solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Satya1296/Leetcode-solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Satya1296/Leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Satya1296/Leetcode-solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Satya1296/Leetcode-solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
@@ -523,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Satya1296/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Satya1296/Leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Satya1296/Leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Satya1296/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
