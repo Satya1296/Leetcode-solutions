@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0260-single-number-iii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Satya1296/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Satya1296/Leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Satya1296/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satya1296/Leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Satya1296/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Satya1296/Leetcode-solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Satya1296/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -586,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Satya1296/Leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Satya1296/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
