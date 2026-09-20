@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Satya1296/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Satya1296/Leetcode-solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Satya1296/Leetcode-solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Satya1296/Leetcode-solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Satya1296/Leetcode-solutions/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3456-find-special-substring-of-length-k](https://github.com/Satya1296/Leetcode-solutions/tree/main/3456-find-special-substring-of-length-k/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
