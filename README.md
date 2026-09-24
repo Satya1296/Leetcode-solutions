@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3876-construct-uniform-parity-array-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Satya1296/Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Satya1296/Leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3961-maximize-sum-of-device-ratings](https://github.com/Satya1296/Leetcode-solutions/tree/main/3961-maximize-sum-of-device-ratings/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/Satya1296/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Satya1296/Leetcode-solutions/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Satya1296/Leetcode-solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3961-maximize-sum-of-device-ratings](https://github.com/Satya1296/Leetcode-solutions/tree/main/3961-maximize-sum-of-device-ratings/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3731-find-missing-elements](https://github.com/Satya1296/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satya1296/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3961-maximize-sum-of-device-ratings](https://github.com/Satya1296/Leetcode-solutions/tree/main/3961-maximize-sum-of-device-ratings/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3282-reach-end-of-array-with-max-score](https://github.com/Satya1296/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Satya1296/Leetcode-solutions/tree/main/3326-minimum-division-operations-to-make-array-non-decreasing/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Satya1296/Leetcode-solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
+| [3961-maximize-sum-of-device-ratings](https://github.com/Satya1296/Leetcode-solutions/tree/main/3961-maximize-sum-of-device-ratings/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
