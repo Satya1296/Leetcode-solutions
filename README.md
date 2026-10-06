@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Satya1296/Leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Satya1296/Leetcode-solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya1296/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satya1296/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya1296/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1054-distant-barcodes](https://github.com/Satya1296/Leetcode-solutions/tree/main/1054-distant-barcodes/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Satya1296/Leetcode-solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Satya1296/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Satya1296/Leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Satya1296/Leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya1296/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satya1296/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -748,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Satya1296/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satya1296/Leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
