@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2317-maximum-xor-after-operations](https://github.com/Satya1296/Leetcode-solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Satya1296/Leetcode-solutions/tree/main/2383-minimum-hours-of-training-to-win-a-competition/) | Easy |
 | [2418-sort-the-people](https://github.com/Satya1296/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
+| [2451-odd-string-difference](https://github.com/Satya1296/Leetcode-solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Satya1296/Leetcode-solutions/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Satya1296/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Satya1296/Leetcode-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Satya1296/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
+| [2451-odd-string-difference](https://github.com/Satya1296/Leetcode-solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Satya1296/Leetcode-solutions/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Satya1296/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Satya1296/Leetcode-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2418-sort-the-people](https://github.com/Satya1296/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
+| [2451-odd-string-difference](https://github.com/Satya1296/Leetcode-solutions/tree/main/2451-odd-string-difference/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Satya1296/Leetcode-solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Satya1296/Leetcode-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Satya1296/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
